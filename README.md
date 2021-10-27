@@ -1,5 +1,5 @@
 Hey Friend! I'm Joy Lindstrom 
-I enjoy comedy, recreation and videosgames! I'm learning full stack development and I hope to make fantasic web apps to share my passions. 
+I enjoy comedy, recreation and video games! I'm learning full stack development and I hope to make fantasic web apps to share my passions. 
 -  I am learning...
   -  Javascript (MERN)
   -  Pyhon and Chalice
